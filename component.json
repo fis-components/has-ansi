@@ -1,0 +1,11 @@
+{
+    "name": "has-ansi",
+    "description": "Check if a string has ANSI escape codes",
+    "repos": "https://github.com/sindresorhus/has-ansi",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "ansi-regex": "^2.0.0"
+    },
+    "version": "2.0.0"
+}
